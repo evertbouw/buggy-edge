@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/buggy-edge/static/js/main.8bd77568.chunk.js",
+    "main.js.map": "/buggy-edge/static/js/main.8bd77568.chunk.js.map",
+    "runtime-main.js": "/buggy-edge/static/js/runtime-main.aeb0ac2d.js",
+    "runtime-main.js.map": "/buggy-edge/static/js/runtime-main.aeb0ac2d.js.map",
+    "4baccac618e4e97690b7.worker.js": "/buggy-edge/4baccac618e4e97690b7.worker.js",
+    "4baccac618e4e97690b7.worker.js.map": "/buggy-edge/4baccac618e4e97690b7.worker.js.map",
+    "index.html": "/buggy-edge/index.html",
+    "precache-manifest.38f791e7c6c72f7c33a469afa6c8de9f.js": "/buggy-edge/precache-manifest.38f791e7c6c72f7c33a469afa6c8de9f.js",
+    "service-worker.js": "/buggy-edge/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb0ac2d.js",
+    "static/js/main.8bd77568.chunk.js"
+  ]
+}

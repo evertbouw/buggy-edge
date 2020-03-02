@@ -1,0 +1,2 @@
+(this["webpackJsonpbuggy-edge"]=this["webpackJsonpbuggy-edge"]||[]).push([[0],[function(e,n,t){e.exports=function(){return new Worker(t.p+"4baccac618e4e97690b7.worker.js")}},function(e,n,t){e.exports=t(2)},function(e,n,t){"use strict";t.r(n);var r=t(0);(new(t.n(r).a)).addEventListener("message",(function(e){var n=e.data;document.getElementById("root").innerText=n}))}],[[1,1]]]);
+//# sourceMappingURL=main.8bd77568.chunk.js.map
